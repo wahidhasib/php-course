@@ -33,4 +33,5 @@ todo Overview of full php course by Hasin Hyder.
 * 04 - Recursive function (Self Calling Function)
 * 05 - Variable Scoping
 * 05 - Fibonacci series print with recursive function
+* 05 - Factorial with recursive function
 */
