@@ -31,4 +31,5 @@ todo Overview of full php course by Hasin Hyder.
 * 02 - function declearation
 * 03 - Unlimited parameter receive function
 * 04 - Recursive function (Self Calling Function)
+* 05 - Variable Scoping
 */
