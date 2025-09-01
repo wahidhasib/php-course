@@ -44,9 +44,9 @@ todo Overview of full php course by Hasin Hyder.
 
 * 01 - Basic introduction of Array
 * 02 - Array Oparation (shift, unshift, push, pop)
-* 03 - Associative Array
-* 04 - Recursive function (Self Calling Function)
-* 05 - Variable Scoping
-* 05 - Fibonacci series print with recursive function
-* 05 - Factorial with recursive function
+* 03 - Associative Array (Introduction)
+* 04 - transformation of array to string and string to array
+* 05 - Nasted Array
+* 06 - Conversion of array to json or json to an array
+* 07 - copy of array
 */
