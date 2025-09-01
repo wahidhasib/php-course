@@ -35,3 +35,18 @@ todo Overview of full php course by Hasin Hyder.
 * 05 - Fibonacci series print with recursive function
 * 05 - Factorial with recursive function
 */
+
+
+/*
+================================================
+*Class 03 - Array
+================================================
+
+* 01 - Basic introduction of Array
+* 02 - Array Oparation (shift, unshift, push, pop)
+* 03 - Unlimited parameter receive function
+* 04 - Recursive function (Self Calling Function)
+* 05 - Variable Scoping
+* 05 - Fibonacci series print with recursive function
+* 05 - Factorial with recursive function
+*/
