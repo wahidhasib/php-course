@@ -49,4 +49,14 @@ todo Overview of full php course by Hasin Hyder.
 * 05 - Nasted Array
 * 06 - Conversion of array to json or json to an array
 * 07 - copy of array
+* 08 - Extract Array (array_slice, array_splice)
+* 09 - Array Merge (Join multiple array)
+* 10 - Array Sorting
+* 11 - Search in Array
+* 12 - Difference and intersection in array
+* 13 - Array Utilities ===> array_walk(), array_map()
+* 14 - Array Reduce - opration with new value and old value
+* 15 - Array List - assign multiple variables at once from an array
+* 16 - Array range - make an array and store their value
+* 17 - Array Shuffing - random kay:value pairs
 */
