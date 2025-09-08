@@ -60,3 +60,53 @@ todo Overview of full php course by Hasin Hyder.
 * 16 - Array range - make an array and store their value
 * 17 - Array Shuffing - random kay:value pairs
 */
+
+/**
+ * =======================================
+ * * Class 04 - Webpage
+ * * php -S localhost:3030
+ * =======================================
+ * * 01 - 
+ * * 02 - Form Submit
+ * * 03 - Sanitization - https://www.php.net/manual/en/function.filter-input.php
+ * * 04 - File Upload
+ * * 05 - Multiple File Upload
+ * todo Must watch 4.6 leassons to learn about files permission
+ */
+
+/**
+ * * Configaration Tips
+ *  phpinfo(); - to check all configaration about php
+ *  * find (Loaded Configuration File) ->
+ *  * Open CMD -> paste it
+ *  * search upload_max_filesize, post_max_size
+ *  * change and restart the server
+ */
+
+/**
+ * =======================================
+ * * Class 05 - Webpage
+ * =======================================
+ * * 01 - Data Scrambler Project (Incomplete)
+ */
+
+
+/**
+ * =======================================
+ * * Class 06 - String
+ * =======================================
+ * * 01 - String decearation method
+ * * 02 - String oparation (string to array, array to string, string reverse)
+ * * 03 - Breaking of string by word
+ * * 04 - Search oparation in string
+ * * 05 - Word wraping
+ * * 05 - simple word split and store in a variable - sscanf()
+ */
+
+
+/**
+ * =======================================
+ * * Class 07 - String
+ * =======================================
+ * * 01 - Read file
+ */
