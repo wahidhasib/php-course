@@ -1,3 +1,6 @@
 <?php
-$fileName = "C:\laragon\www\php/class7-files/data/file.txt";
-echo getcwd();
+$fileName = "c:\laragon\www\php-course/class7-files/data/file.txt";
+// echo readfile($fileName);
+
+// ? to ra
+echo readfile($fileName);
